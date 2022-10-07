@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center">👋 Hi there! Welcome to my GitHub page.</h3>
+<h2 align="center">👋 Hi there! Welcome to my GitHub page.</h2>
 
 <!-- About section -->
 ✨ My name is Ioannis and I am an Electronics Engineer who loves learning new things and designing cool products.
