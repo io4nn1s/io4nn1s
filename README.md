@@ -1,3 +1,7 @@
+<!-- Profile Views -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=io4nn1s&label=Profile%20views&color=228b22&style=flat" />
+</p>
+
 <!-- Heading -->
 <h2 align="center">👋 Hi there! Welcome to my GitHub page.</h2>
 
@@ -22,6 +26,8 @@ You may not see a lot of projects here yet, but I will be uploading more content
    <a href="https://www.linkedin.com/in/i-antonakis/"><img src="https://img.shields.io/badge/-Ioannis%20Antonakis%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
 </p>
 
+
+
 <!--
 **io4nn1s/io4nn1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Profile views
+![](https://komarev.com/ghpvc/?username=io4nn1s&color=green)
 -->
