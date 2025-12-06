@@ -6,16 +6,18 @@
 <h2 align="center">👋 Hi there! Welcome to my GitHub page.</h2>
 
 <!-- About section -->
-✨ My name is Ioannis and I am an Electronics Engineer who loves learning new things and designing cool products.
+✨ My name is **Ioannis**, and I’m an Electronics Engineer who loves learning new things and designing cool products.
 
-A bit about me:
-- 🌱 I’m currently learning more about GitHub. 
-- 🔭 I’m currently working on some projects that I will be uploading soon.
-- 📚 My top programming languages are C and C++, but I also know Python, Bash, Java, HTML and CSS. 
-- 🛠️ My engineering skills include PCB Design, Embedded Systems development, Testing electronics, and more...
-- 💡 I enjoy solving challenging problems and I like innovation.
+## 🌟 About Me
+- 🌱 I’m currently studying an **MSc in Electronics and Robotics**.  
+- 🔭 I’m working on several projects that I plan to upload here over time.  
+- 📚 My main programming languages are **C** and **C#**, as well as **Python**, **C++**, and a bit of **Bash**, **Java**, **HTML**, **CSS**, and now **Lua**.  
+- 🛠️ My engineering skills include **PCB design**, **Embedded Systems Development**, **CAD (Fusion 360)**, and more.  
+- 💡 I enjoy tackling challenging problems, and I'm particularly interested in **robotics** and **innovative technologies**.
 
-You may not see a lot of projects here yet, but I will be uploading more content in time.
+Although there may not be many repositories here yet, I’ll be uploading more projects over time — so stay tuned!
+
+---
 
 ## My Gists
 👉 https://gist.github.com/io4nn1s
