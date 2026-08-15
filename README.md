@@ -22,12 +22,12 @@ Although there may not be many repositories here yet, I’ll be uploading more p
 ## My Gists
 👉 https://gist.github.com/io4nn1s
 
-<!-- Connect section -->
+<!-- Connect section --
 <h2>Connect with me </h2>
 <p>
    <a href="https://www.linkedin.com/in/i-antonakis/"><img src="https://img.shields.io/badge/-Ioannis%20Antonakis%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
 </p>
-
+-->
 
 
 <!--
