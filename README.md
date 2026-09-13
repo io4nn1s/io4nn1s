@@ -4,18 +4,31 @@
 
 <!-- Heading -->
 <h2 align="center">👋 Hi there! Welcome to my GitHub page.</h2>
+<p align="center"> <strong>Electronics & Robotics Engineer | Embedded Systems | Automation</strong> </p>
 
 <!-- About section -->
-✨ My name is **Ioannis**, and I’m an Electronics Engineer who loves learning new things and designing cool products.
+✨ My name is **Ioannis**, and I'm an Electronics Engineer with professional experience in commercial electronics design, embedded firmware and hardware/software integration. I recently completed an MSc in Electronics and Robotics, further developing my experience in robotics, simulation and intelligent systems.
 
 ## 🌟 About Me
-- 🌱 I’m currently studying an **MSc in Electronics and Robotics**.  
-- 🔭 I’m working on several projects that I plan to upload here over time.  
-- 📚 My main programming languages are **C** and **C#**, as well as **Python**, **C++**, and a bit of **Bash**, **Java**, **HTML**, **CSS**, and now **Lua**.  
-- 🛠️ My engineering skills include **PCB design**, **Embedded Systems Development**, **CAD (Fusion 360)**, and more.  
-- 💡 I enjoy tackling challenging problems, and I'm particularly interested in **robotics** and **innovative technologies**.
+- 🎓 Recently completed an **MSc in Electronics and Robotics**.
+- 🤖 Particularly interested in robotics, robot simulation and automation.
+- 🔌 Professional experience in **commercial electronics design, PCB development** and **embedded systems**.
+- 💻 Experience developing **embedded firmware in C** and **Windows applications in C#/.NET**.
+- 🔗 Experienced in integrating **hardware, firmware** and **software** into complete products.
+- 🛠️ Familiar with **CAD (Fusion 360)** and a range of hardware and software development tools.
+- 💻 Programming experience with **C, C#, Python and C++**, alongside **Bash, Lua, HTML and CSS**.
+- 💡 I enjoy tackling challenging engineering problems and learning new technologies through practical projects.
 
-Although there may not be many repositories here yet, I’ll be uploading more projects over time — so stay tuned!
+## 🚀 Featured Project
+[CoppeliaSim Motion Planning](https://github.com/io4nn1s/coppeliasim-motion-planning)
+
+A robotic manipulation simulation demonstrating motion planning, collision avoidance and redundancy exploitation using OMPL and simIK in CoppeliaSim.
+
+The project explores collision-free pick-and-place operation in an industrial-style workspace, with interactive object selection, obstacle avoidance, inverse kinematics and finite-state-machine control.
+
+## 📌 More Projects
+
+More robotics, electronics and embedded systems projects will be added here as they are completed.
 
 ---
 
