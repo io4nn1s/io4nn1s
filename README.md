@@ -11,7 +11,8 @@
 
 ## 🌟 About Me
 - 🎓 Recently completed an **MSc in Electronics and Robotics**.
-- 🤖 Particularly interested in robotics, robot simulation and automation.
+- 🤖 Particularly interested in robotics, mechatronics and automation.
+- 🧭 Hands-on experience with ROS 2, Gazebo, and SLAM through MSc robotics coursework and dissertation research.
 - 🔌 Professional experience in **commercial electronics design, PCB development** and **embedded systems**.
 - 💻 Experience developing **embedded firmware in C** and **Windows applications in C#/.NET**.
 - 🔗 Experienced in integrating **hardware, firmware** and **software** into complete products.
@@ -22,11 +23,12 @@
 ## 🚀 Featured Project
 [CoppeliaSim Motion Planning](https://github.com/io4nn1s/coppeliasim-motion-planning)
 
-A robotic manipulation simulation demonstrating motion planning, collision avoidance and redundancy exploitation using OMPL and simIK in CoppeliaSim.
-
-The project explores collision-free pick-and-place operation in an industrial-style workspace, with interactive object selection, obstacle avoidance, inverse kinematics and finite-state-machine control.
+A robotic manipulation simulation demonstrating motion planning, collision avoidance, and inverse kinematics using OMPL and simIK in CoppeliaSim, applied to a collision-free pick-and-place task in an industrial-style workspace.
 
 ## 📌 More Projects
+[E-Paper Demo](https://github.com/io4nn1s/E-Paper) — Embedded C driver demo for a monochrome E-Paper display on an ATmega328p microcontroller, built during my time at Midas Displays.
+
+[Arduino Libraries](https://github.com/io4nn1s/Arduino) — A small collection of Arduino display-driver libraries written during my time at Midas Displays.
 
 More robotics, electronics and embedded systems projects will be added here as they are completed.
 
